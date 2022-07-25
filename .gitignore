@@ -1,0 +1,14 @@
+.DS_Store
+.idea/
+.idea/*
+.vscode
+*.sublime*
+build/
+node_modules/
+npm-debug.*
+
+dist/
+node_modules/
+package.json
+gulpfile.js
+app/css/*
